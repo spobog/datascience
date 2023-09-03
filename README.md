@@ -1,2 +1,2 @@
-# datascience
-These are my data science works
+# Data science
+These are my data science projects.
